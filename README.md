@@ -4,9 +4,11 @@ We could not properly test the source code of React Storefront, so we improvised
 
 Testing thosee clauses would require us to cause intentional exception or use an advanced framework to travseerse those pathways, which would be time consuming and not very fruitful for our final results. 
 
-Furthermore, the unit testing taught us about different important features offered by Java Frawworks such as JUnit and JaCoCo. Those being:
-    * Assertions
-    * Exception Pathways
-    * Isolating a section of code and validate its correctness
-    * Helping us to improve the design by allowing refactoring of the code
-    * Better udnerstanding of how to perform integration testing as well as how these modules gel together in the final product
+Furthermore, the unit testing taught us about different important features offered by Java Frawworks such as JUnit and JaCoCo. 
+
+Those being:
+- Assertions
+- Exception Pathways
+- Isolating a section of code and validate its correctness
+- Helping us to improve the design by allowing refactoring of the code
+- Better udnerstanding of how to perform integration testing as well as how these modules gel together in the final product
